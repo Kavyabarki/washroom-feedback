@@ -3,8 +3,7 @@ import { Grid, Typography, Box } from '@mui/material';
 import { gridSpacing } from './constant';
 
 
-import Footfall from './Footfall';
-import VMS from './VMS';
+
 import Happy from './Happy';
 import Sad from './Sad';
 
